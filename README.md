@@ -55,3 +55,11 @@ Users can sort the data by any column in ascending or descending order:
 Sortable Columns: Date, Revenue, Net Income, Gross Profit, EPS, and Operating Income.
 
 Clicking on a column header toggles between ascending and descending order.
+
+
+# How to Run Project
+1. navigate to valueglanceapp/src
+2. install node.js
+3. run "npm install -g serve"
+4. run "npm install concurrently --save-dev
+5. npm start -> will run the backend and frontend simultaneously
