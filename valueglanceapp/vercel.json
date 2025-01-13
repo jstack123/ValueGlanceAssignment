@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/valueglance.py": {
+        "runtime": "vercel-python"
+      }
+    }
+  }
+  
